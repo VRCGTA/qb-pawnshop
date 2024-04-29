@@ -27,30 +27,26 @@ Config.PawnItems = {
         price = math.random(1000,2000)
     },
     [2] = {
-        item = 'diamond_ring',
-        price = math.random(1000,2000)
-    },
-    [3] = {
         item = 'rolex',
         price = math.random(1000,2000)
     },
+    [3] = {
+        item = 'tenkgoldchain',
+        price = math.random(500,1000)
+    },
     [4] = {
-        item = '10kgoldchain',
-        price = math.random(50,1000)
+        item = 'tablet',
+        price = 1000
     },
     [5] = {
-        item = 'tablet',
-        price = math.random(50,100)
-    },
-    [6] = {
         item = 'iphone',
         price = math.random(50,100)
     },
-    [7] = {
+    [6] = {
         item = 'samsungphone',
         price = math.random(50,100)
     },
-    [8] = {
+    [7] = {
         item = 'laptop',
         price = math.random(50,100)
     }
